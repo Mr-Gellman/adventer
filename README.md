@@ -45,11 +45,9 @@
 ###盲打  
 ###英语  
 ##插入代码段，代码块  
-###代码段  
-`
-print("hello world!")
-`
 ###代码块  
+`print("hello world!")`
+###代码段  
 ```
 print("hello world")
 import random
